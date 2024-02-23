@@ -1,3 +1,9 @@
+def abc():
+  print("hhhh")
+abc()
+
+
+
 <h1>He..hello there?👋</h1>
 
 <strong><i>最近正在写一些小游戏,顺便研究一下html和网络爬虫方面的问题📕</i></strong><br>
